@@ -1,6 +1,6 @@
 # Prompt Engineering Portfolio
 
-**Name:** [Manya Rana]  
+**Name:** Manya Rana  
 **Date:** June 6, 2026  
 **LLM Used:** ChatGPT
 
@@ -31,10 +31,9 @@ You are an expert elementary school teacher. Explain neural networks to a 10-yea
 ### Final LLM Output
 
 Imagine your brain learning how to recognize dogs. The more dogs you see, the better you become at spotting one. A neural network works in a similar way. It is a computer system that learns by looking at many examples.
-
 Think of it like a team of tiny helpers. Each helper notices something small, such as ears, tails, or fur. Together, they decide whether the picture shows a dog.
-
 Just like you learn from practice, neural networks improve when they see more examples. They help computers recognize faces, understand speech, and recommend videos you might enjoy.
+
 ---
 
 ## 1.1 Scenario B: Professional Email
@@ -216,7 +215,6 @@ You have a meeting at 2 PM that requires 1 hour of preparation time, a 30-minute
 #### Prompt
 
 Answer the following question and provide only the final answer.
-
 You have a meeting at 2 PM that requires 1 hour of preparation time, a 30-minute commute, and you need to eat lunch for 30 minutes beforehand. You also have a 45-minute call scheduled at 11 AM. What time should you start preparing?
 
 #### Output
@@ -230,7 +228,6 @@ You have a meeting at 2 PM that requires 1 hour of preparation time, a 30-minute
 #### Prompt
 
 Let's solve this step by step and explain the reasoning.
-
 You have a meeting at 2 PM that requires 1 hour of preparation time, a 30-minute commute, and you need to eat lunch for 30 minutes beforehand. You also have a 45-minute call scheduled at 11 AM. What time should you start preparing?
 
 #### Output
